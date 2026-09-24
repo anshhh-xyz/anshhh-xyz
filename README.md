@@ -1,8 +1,16 @@
-# Ansh Gupta
+<div align="center">
 
-**Software Engineer · AI/ML · Full-Stack**
+# ✦ ANSH GUPTA ✦
 
-> Building things, breaking things, and learning how they work.
+**AI/ML · Software Engineering · Full-Stack**
+
+`building things · learning systems · shipping projects`
+
+</div>
+
+---
+
+### `// focus`
 
 ```python
 focus = [
@@ -11,21 +19,24 @@ focus = [
     "AI Tooling",
     "Full-Stack Systems",
 ]
-
-currently = "learning → building → shipping"
 ```
 
 ### `// stack`
 
-`Python` · `PyTorch` · `YOLO` · `JavaScript` · `Node.js` · `SQL` · `Supabase` · `Git`
+`Python` · `PyTorch` · `YOLO` · `JavaScript` · `Node.js` · `SQL` · `Git`
 
 ### `// projects`
 
-**DetectIQ** — Computer Vision & ADAS
-**Attendily** — AI-powered Attendance PWA
-**Lagom** — LLM Fine-tuning & NLP
-**AutoExpense** — Serverless Automation
+[**DetectIQ**](PROJECT_LINK) · [**Attendily**](PROJECT_LINK) · [**Lagom**](PROJECT_LINK) · [**AutoExpense**](PROJECT_LINK)
 
-### `// connect`
+---
 
-[Portfolio](https://anshguptax.vercel.app) · [LinkedIn](#) · [Email](mailto:ansh.ash72@gmail.com)
+<div align="center">
+
+`// exploring the space between code & intelligence`
+
+✦ · · · ★ · · ✦ · · ★ · · · ✦
+
+[Portfolio](https://anshguptax.vercel.app) · [LinkedIn](LINKEDIN_LINK)
+
+</div>
