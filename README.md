@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ ANSH GUPTA ✦
+#  ANSH GUPTA 
 
 **AI/ML · Software Engineering · Full-Stack**
 
@@ -35,7 +35,7 @@ focus = [
 
 `// exploring the space between code & intelligence`
 
-✦ · · · ★ · · ✦ · · ★ · · · ✦
+
 
 [Portfolio](https://anshguptax.vercel.app) · [LinkedIn](LINKEDIN_LINK)
 
