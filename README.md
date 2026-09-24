@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ansh Gupta
 
-<!--
-**anshhh-xyz/anshhh-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · AI/ML · Full-Stack**
 
-Here are some ideas to get you started:
+> Building things, breaking things, and learning how they work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+focus = [
+    "Machine Learning",
+    "Computer Vision",
+    "AI Tooling",
+    "Full-Stack Systems",
+]
+
+currently = "learning → building → shipping"
+```
+
+### `// stack`
+
+`Python` · `PyTorch` · `YOLO` · `JavaScript` · `Node.js` · `SQL` · `Supabase` · `Git`
+
+### `// projects`
+
+**DetectIQ** — Computer Vision & ADAS
+**Attendily** — AI-powered Attendance PWA
+**Lagom** — LLM Fine-tuning & NLP
+**AutoExpense** — Serverless Automation
+
+### `// connect`
+
+[Portfolio](https://anshguptax.vercel.app) · [LinkedIn](#) · [Email](mailto:ansh.ash72@gmail.com)
